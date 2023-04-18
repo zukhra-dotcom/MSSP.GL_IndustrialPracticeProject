@@ -47,7 +47,7 @@ mySelect2.addEventListener("change", function() {
   
     switch(selectedOption2) {
       case "option2_1":
-        imagePath2 = "dashboard_4.png";
+        imagePath2 = "main_image.jpg";
         break;
       case "option2_2":
         imagePath2 = "dashboard_2.png";
@@ -62,7 +62,7 @@ mySelect2.addEventListener("change", function() {
         imagePath2 = "dashboard_5.jpg";
         break;    
       default:
-        imagePath2 = "main_image.jpg";
+        imagePath2 = "dashboard_2.png";
     }
   
     

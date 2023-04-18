@@ -5,13 +5,14 @@
 }
 
 .header{
+    margin-left: 50px;
     display: flex;
     width: 100%;
 }
 
 .header img{
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     margin: 20px 0px 20px 30px;
 }
 
@@ -19,7 +20,7 @@
     color: aliceblue;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
     font-size: 1.5rem;
-    margin: 26px 0px 20px 30px;
+    margin: 52px 0px 20px 30px;
 }
 
 
@@ -30,7 +31,7 @@
 }
 
 .column{
-    padding:10px 20px 20px 20px;
+    padding:0px 20px 20px 20px;
     color: aliceblue;
     flex:1;
 }
